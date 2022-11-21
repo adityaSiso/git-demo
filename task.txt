@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hey, This is dev-2. How you doing?
+=======
+Hello this is dev-1. How are you??
+>>>>>>> Changes from dev-1
